@@ -1,0 +1,28 @@
+{
+  "name": "express-mongoose-app",
+  "version": "1.0.0",
+  "description": "create an express and mongoose app so better understand these concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seremba/express-mongoose-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seremba/express-mongoose-app/issues"
+  },
+  "homepage": "https://github.com/Seremba/express-mongoose-app#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.5.4"
+  }
+}
